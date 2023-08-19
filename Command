@@ -1,0 +1,2 @@
+// Command //
+sudo apt install -y realtek-rtl8188eus-dkms
